@@ -1,0 +1,27 @@
+{
+    "id": "50706942",
+    "path": "~/repos/BayesCISims/5/5_model.stan",
+    "project_path": "5/5_model.stan",
+    "type": "stan",
+    "hash": "495711276",
+    "contents": "",
+    "dirty": false,
+    "created": 1793592122237.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1793593134,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1793593134970,
+    "read_only": false,
+    "read_only_alternatives": []
+}
